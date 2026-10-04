@@ -1,6 +1,7 @@
 streamlit
 transformers
 torch
-plotly
+google-genai
+python-dotenv
 pandas
-groq
+plotly
